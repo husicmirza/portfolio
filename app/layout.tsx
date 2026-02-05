@@ -6,14 +6,14 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mirza Husic Portofolio",
+  title: "Mirza Husic Portfolio",
   description:
     "Mirza Husic, a skilled Software Engineer specializing in React and Next.js, focused on creating fast, responsive, and user-friendly web applications",
   icons: "/mh.png",
   openGraph: {
     siteName: "mirzahusic.dev",
     url: `https://mirzahusic.dev`,
-    title: "Mirza Husic Portofolio",
+    title: "Mirza Husic Portfolio",
     description:
       "Mirza Husic, a skilled Software Engineer specializing in React and Next.js, focused on creating fast, responsive, and user-friendly web applications",
     images: ["/me.png"],
