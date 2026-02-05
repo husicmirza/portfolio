@@ -14,9 +14,7 @@ const Experience = () => {
             key={card.id}
             className="flex-1 text-white border-neutral-200 dark:border-slate-800"
             duration={Math.floor(Math.random() * 10000) + 10000}
-            containerClassName={`${
-              card.id === 3 ? "md:col-span-4" : "md:col-span-2"
-            }`}
+            containerClassName="md:col-span-4"
           >
             <div className="flex lg:flex-row flex-col lg:items-center p-3 py-6 md:p-5 lg:p-10 gap-2">
               <img

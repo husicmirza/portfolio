@@ -138,25 +138,32 @@ export const technologies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern - Cape Ann Enterprises",
-    desc: "My focus was to enhance the application using Angular, Strapi, and SQLite. We adopted Agile methodologies for effective project management.",
+    title: "Software Engineer Intern - Cape Ann Enterprises",
+    desc: "Enhanced web application features using Angular, Strapi, and SQLite. Collaborated with the development team following Agile methodologies, participating in sprint planning and daily standups to deliver project milestones.",
     date: "Jun 2022 - Aug 2022",
     thumbnail: "/cape-ann-logo.png",
   },
   {
     id: 2,
     title: "Software Engineer - Pickleball.com",
-    desc: " I had the opportunity to develop responsive and user-friendly web interfaces, specializing in React, TypeScript, Next.js, and Tailwind CSS.",
+    desc: " I had the opportunity to develop responsive and user-friendly web interfaces, specializing in Next.js. I collaborated closely with designers and backend developers to implement new features and optimize existing ones, ensuring a seamless user experience across various devices.",
     date: "Sep 2022 - May 2024",
     thumbnail: "/pickleball-icon.svg",
   },
   {
     id: 3,
     title: "Software Engineer - Techman Solutions",
-    desc: "Experienced in setting up and customizing Odoo ERP systems, including cloud deployment and module configuration. Skilled in analyzing business needs to deliver tailored Odoo solutions, user training, and support. Currently leading the development of an internal web app using React, Next.js, and Appwrite.",
-    date: "May 2024 - Present",
+    desc: "Configured and deployed Odoo ERP systems to cloud environments, customizing modules to meet specific business requirements. Analyzed client needs to deliver tailored ERP solutions, conducted user training sessions, and provided ongoing technical support. Led the development of an internal web application using Next.js and Appwrite.",
+    date: "May 2024 - Oct 2025",
     thumbnail: "/techman-solutions-icon.png",
   },
+    {
+    id: 4,
+    title: "Software Engineer - 21 Analytics",
+    desc: "Developing and maintaining the company website using Next.js, implementing feature enhancements and performance optimizations. Built and integrated Payload CMS to enable the content team to manage website content independently. Managed full deployment pipeline including server configuration and domain setup.",
+    date: "Oct 2025 - Present",
+    thumbnail: "/21-analytics-logo.svg",
+  }
 ];
 
 export const socialMedia = [
